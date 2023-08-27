@@ -1,5 +1,3 @@
-_G.Condition = true
-while _G.Condition == true do
 -------------------------------------------------------------------------------
 local args = {
     [1] = 1,
@@ -1581,6 +1579,3 @@ local args = {
 
 game:GetService("ReplicatedStorage").Events.GemGrid:FireServer(unpack(args))
 -------------------------------------------------------------------------------
-
-wait()
-end
