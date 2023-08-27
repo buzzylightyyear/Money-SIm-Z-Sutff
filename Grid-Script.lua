@@ -1,5 +1,5 @@
-_G.Toggle = true 
-while _G.Toggle == true do
+_G.Condition = false
+while _G.Condition == true do
 -------------------------------------------------------------------------------
 local args = {
     [1] = 1,
