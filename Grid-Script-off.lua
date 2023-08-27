@@ -1,4 +1,4 @@
-_G.Condition = true
+_G.Condition = false
 while _G.Condition == true do
 -------------------------------------------------------------------------------
 local args = {
